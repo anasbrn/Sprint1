@@ -1,7 +1,7 @@
 ul {
     display: flex;
     list-style-type:none;
-    margin: 1em;
+    /* margin: 1em; */
     padding: 0%;
 }
 
@@ -32,23 +32,4 @@ a {
 .product {
     margin: 12px;
     
-}
-
-
-.article2 {
-    border-style: solid;
-    border-width: thin;
-    display: inline-block;
-}
-
-.article3 {
-    border-style: solid;
-    border-width: thin;
-    display: inline-block;
-}
-
-.article4 {
-    border-style: solid;
-    border-width: thin;
-    display: inline-block;
 }
