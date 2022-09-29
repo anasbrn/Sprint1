@@ -1,0 +1,54 @@
+ul {
+    display: flex;
+    list-style-type:none;
+    margin: 1em;
+    padding: 0%;
+}
+
+li {
+    margin: 5px;
+}
+
+ol {
+    display: flex;
+    list-style-type: none;
+}
+
+a {
+    color: black;
+}
+
+.ulArticle1 {
+    display:inline;
+    list-style-type: none;
+}
+
+.article1 {
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+}
+
+.product {
+    margin: 12px;
+    
+}
+
+
+.article2 {
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+}
+
+.article3 {
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+}
+
+.article4 {
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+}
